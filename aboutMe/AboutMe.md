@@ -13,10 +13,9 @@ To develop my skills in an organization or institution that offers both challeng
 
 ### SKILLS
 <ul>
-	<li>Web development with Go,Node.js,Bootstrap and ExpressFramework.</li>
+	<li>Backend developer(using Golang).</li>
 	<li>Creating RESTFUL APIs and consuming APIs.</li>
-	<li>Coding in C,Python,Node.js and GoLang(also Network programming with Golang).</li>
-	<li>Web design using HTML,CSS and Javascript.</li>
+	<li>Coding in Python and GoLang(also Network programming with Golang).</li>
 	<li>Managing Databases(Both SQL and NoSQL)</li>
 	<li>Knowlegde working with Linux OS.</li>
 	<li>Data warehousing with Hadoop.</li>
